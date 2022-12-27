@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+     fashion
+</title>
+
+<style>
+          {
+          height:400px;
+          width:400px;
+     background:
+url("https://images.app.goo.gl/gbuUuKVtuJ2ir2iB8");
+     background-size:  400px 400px;
+        }
+
+</style>
+</head>
+<body bgcolor="grey" text="black">
+<h1 align=center >
+<CITE>Love Fashion</CITE>
+</h1>
+</body>
+</html>
